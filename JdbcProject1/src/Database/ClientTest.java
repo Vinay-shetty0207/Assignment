@@ -19,9 +19,8 @@ public class ClientTest {
 		while(rs.next())
 		{
 			 System.out.println(rs.getString(1));
-			 System.out.println(rs.getString(2));
-			 System.out.println(rs.getString(3));
-			 System.out.println(rs.getInt(4));
+			
+			 
 				
 	}
 			try
